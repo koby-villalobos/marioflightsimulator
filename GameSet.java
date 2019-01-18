@@ -4,7 +4,7 @@ import java.io.FileWriter;
 import java.io.InputStreamReader;
 import java.util.Scanner;
 
-// Author: Kobi + Alton
+// Author: Koby + Alton
 
 public class GameSet {
 
